@@ -5,7 +5,10 @@
 1. Create virtual environment:
 
 `python -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
+
+source env/bin/activate`  
+
+# On Windows use `env\Scripts\activate`
 
 2. Install dependencies:
 
@@ -14,6 +17,7 @@ source env/bin/activate  # On Windows use `env\Scripts\activate`
 3. Run application:
 
 `cd src/backend
+
 fastapi run app.py`
 
 4. Usage:
