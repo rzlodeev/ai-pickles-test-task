@@ -8,7 +8,7 @@
 
 source env/bin/activate`  
 
-# On Windows use `env\Scripts\activate`
+On Windows use `env\Scripts\activate`
 
 2. Install dependencies:
 
